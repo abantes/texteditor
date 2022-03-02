@@ -14,7 +14,7 @@
   <img src=".github/screenshot.png" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
-## Project
+## ABout project
 
 ✏️ This project was created with people in mind who need to take quick and simple notes. Texteditor brings everything needed to create hypertexts in a simple way. In developing this project, I used [Reactjs](https://www.electronjs.org/) and [Nodejs](https://nodejs.org/en/). You can view the layout of this project by clicking [here](http://texteditor-phi.vercel.app/).
 
