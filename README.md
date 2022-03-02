@@ -55,7 +55,7 @@ Contributions are always welcome, no matter how large or small.
 
 After the merge of your pull request is done, you can delete your branch.
 
-Feel free to **file a new issue** with a respective title and description on the the [Texteditor](https://github.com/LauraBeatris/texteditor/issues) repository. If you already found a solution to your problem, i would love to review your pull request!
+Feel free to **file a new issue** with a respective title and description on the the [Texteditor](https://github.com/abantes/texteditor/issues) repository. If you already found a solution to your problem, i would love to review your pull request!
 
 ## License
 
