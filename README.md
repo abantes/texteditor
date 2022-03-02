@@ -18,7 +18,7 @@
 
 This project was created with people in mind who need to take quick and simple notes. Texteditor brings everything needed to create hypertexts in a simple way. You can view the layout of this project by clicking [here](http://texteditor-phi.vercel.app/).
 
-## Installation:
+## Running the project locally
 
 You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/) installed on your machine. Then, you can run the scripts below:
 
@@ -38,11 +38,11 @@ $ npm run dev
 # The port that the server will open will be shown on the console
 ```
 
-## Environment Support
+## Environment support browsers
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Safari |
 | --- | --- | --- | --- |
-| IE11, Edge | last 5 versions | last 5 versions | last 5 versions |
+| IE11, Edge | last 15 versions | last 15 versions | last 15 versions |
 
 ## How to contribute
 
@@ -55,7 +55,7 @@ Contributions are always welcome, no matter how large or small.
 
 After the merge of your pull request is done, you can delete your branch.
 
-You can report a bug [here](https://github.com/abantes/texteditor/issues).
+Feel free to **file a new issue** with a respective title and description on the the [Texteditor](https://github.com/LauraBeatris/texteditor/issues) repository. If you already found a solution to your problem, i would love to review your pull request!
 
 ## License
 
