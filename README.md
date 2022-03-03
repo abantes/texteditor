@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/logo.png" width="100px" />
+  Web Text Editor
 </h1>
 
 <p align="center">
